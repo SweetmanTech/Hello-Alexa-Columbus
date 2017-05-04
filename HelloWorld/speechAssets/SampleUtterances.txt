@@ -1,0 +1,3 @@
+MyIntent hello
+WhatsUpIntent total
+MyNameIsIntent my name is {firstname}
